@@ -1,9 +1,1 @@
-{"username":"victor","password":"victor","_id":"7ieuXrVwlLxweom5"}
-{"username":"peter","password":"peter","_id":"9PlU3TjCysNVbRRw"}
-{"username":"henrik","password":"henrik","userId":"49Tmc","_id":"E6uYV6PwFbeP9l7I"}
-{"username":"Anders","password":"Anders","_id":"P0gmyLoT2h7o2vqu"}
-{"username":"victor1","password":"victor1","userId":"78csh","_id":"ThTLGwi0yZbICa73"}
-{"username":"victor2","password":"victor2","userId":"_qkhl","_id":"dhBxXGVaaeldoarW"}
-{"username":"anders","password":"anders","_id":"jzJ8miL10KZHtOFE"}
-{"username":"victor","password":"victor","_id":"mRlzViEIytkSwVvy"}
-{"username":"victor","password":"victor","_id":"z4TnSFPjiX7vcqLy"}
+{"userID":"ADMIN","username":"admin","password":"admin","admin":true,"_id":"HfOeedfjeDUw3zKt"}

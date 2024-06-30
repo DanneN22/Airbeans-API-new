@@ -1,9 +1,9 @@
 import nedb from 'nedb-promises';
 
-const database = new nedb({ filename: 'order.db', autoload: true });
+const database = new nedb({ filename: 'order.db'});
 
-export async function findOrdersByUserId(userId) {
-    return await database.find({ userId }, { coffeeId: 0 });
+async function findOrdersByUserId(userId) {
+    return await database.find({ userID: userId });
 }
 
-export default { findOrdersByUserId };
+export  { findOrdersByUserId };
